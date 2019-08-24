@@ -53,7 +53,7 @@
     <repositories>
         <repository>
             <id>Automated-Refactoring-Tool-Utils</id>
-            <url>https://raw.github.com/zulffaza/Automated-Refactoring-Tool-Utils/mvn-repo/</url>
+            <url>https://raw.github.com/DufanD/Automated-Refactoring-Tool-Utils/mvn-repo/</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
